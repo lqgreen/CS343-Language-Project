@@ -1,6 +1,6 @@
-# Battlefield in Ruby
+# Battleship in Ruby
 
-Welcome to the Battlefield project in Ruby! This project aims to create a text-based battlefield game using the Ruby programming language. Each contributor will work on their own branches to add features, fix bugs, and improve the game.
+Welcome to the Battleship project in Ruby! This project aims to create a text-based battleship game using the Ruby programming language. Each contributor will work on their own branches to add features, fix bugs, and improve the game.
 
 ## Getting Started
 
